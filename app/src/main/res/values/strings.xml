@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="activity_create_note_input_note_title_hint">Tiêu đề</string>
+    <string name="activity_create_note_input_note_subtitle_hint">Subtitle</string>
+    <string name="activity_create_note_input_note_text_hint">Viết nội dung ở đây...</string>
+    <string name="activity_main_text_my_note_text">Nhât ký</string>
+    <string name="activity_main_input_search_hint">Tìm kiếm</string>
+    <string name="layout_add_url_text_add_url_title_text">Add URL</string>
+    <string name="layout_add_url_input_url_hint">Enter URL</string>
+    <string name="layout_add_url_text_add_text">ADD</string>
+    <string name="layout_add_url_text_cancel_text">CANCEL</string>
+    <string name="layout_delete_note_text_delete_note_title_text">Xóa</string>
+    <string name="layout_delete_note_text_delete_note_message_text">Xóa mục này?</string>
+    <string name="layout_delete_note_text_delete_note_text">DELETE</string>
+    <string name="layout_delete_note_text_cancel_text">CANCEL</string>
+    <string name="layout_miscellaneous_text_miscellaneous_text">Tùy chọn</string>
+    <string name="layout_miscellaneous_text_pick_color_text">Pick Color</string>
+    <string name="layout_miscellaneous_text_add_image_text">Add Image</string>
+    <string name="layout_miscellaneous_text_add_url_text">Add URL</string>
+    <string name="layout_miscellaneous_text_delete_note_text">Xóa</string>
+    <string name="loginhere">Thay đổi mã? <u>Click here.</u></string>
+    <string name="loginmain">Đăng nhập bằng tài khoản khác? <u>Click here.</u></string>
+    <string name="changepass"><u>Đổi mật khẩu </u></string>
+    <string name="backhere">Không muốn thay đổi?<u>Click here.</u></string>
+    <string name="channel_name">Nhắc nhở viết nhật ký</string>
+    <string name="channel_description">This is channel 1</string>
+</resources>

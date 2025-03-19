@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="background_color">#121212</color>
+    <color name="calendar_background">#1E1E1E</color>
+    <color name="label_text_color">#FFFFFF</color>
+    <color name="list_background">#1E1E1E</color>
+    <color name="divider_color">#444444</color>
+    <color name="colorPrimary">#EFCBCB</color>
+    <color name="colorAccent">#FDBE38</color>
+    <color name="colorWhiteTextColor">#FFFFFF</color>
+    <color name="colorSearchIcon">@color/black</color>
+    <color name="colorTextHint">#7B7B7B</color>
+    <color name="colorQuickActionBackground">#EAB7B7</color>
+    <color name="colorIcons">@color/black</color>
+    <color name="colorTextSubtitle">#FFFFFF</color>
+    <color name="colorDefaultNoteColor">#E1A5A5</color>
+    <color name="colorNoteSubtitleText">#FAFAFA</color>
+    <color name="colorMiscellaneousBackground">#C79292</color>
+
+    <color name="colorNoteColor2">#FDBE3B</color>
+    <color name="colorNoteColor3">#8BC34A</color>
+    <color name="colorNoteColor4">#F44336</color>
+    <color name="colorNoteColor5">#2196F3</color>
+    <color name="colorDelete">#FF4842</color>
+    <color name="colorSearchBackground">@color/white</color>
+</resources>
